@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ejercicio-06-production/static/css/main.9c94aa41.css",
+    "main.js": "/ejercicio-06-production/static/js/main.0df3c06e.js",
+    "static/js/787.248b447a.chunk.js": "/ejercicio-06-production/static/js/787.248b447a.chunk.js",
+    "index.html": "/ejercicio-06-production/index.html",
+    "main.9c94aa41.css.map": "/ejercicio-06-production/static/css/main.9c94aa41.css.map",
+    "main.0df3c06e.js.map": "/ejercicio-06-production/static/js/main.0df3c06e.js.map",
+    "787.248b447a.chunk.js.map": "/ejercicio-06-production/static/js/787.248b447a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c94aa41.css",
+    "static/js/main.0df3c06e.js"
+  ]
+}
